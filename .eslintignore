@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules
+
+# Build Directory
+dist
+
+# dotenv environment variables file
+.env
+
+# Testing Related
+jest.config.js
+coverage
+
+# File Systems
+.DS_Store
